@@ -179,8 +179,8 @@ Keep your Gemini key in a local `.env` file (the repo ships with `env.example` a
 This project began as **CloudSage**, a collaborative build. The original codebase and its MIT license are authored by **Subramanian Raj Narayanan** (see the [LICENSE](LICENSE) file), and that notice is preserved here in full.
 
 **Contributors:**
-- Subramanian Raj Narayanan — original author
-- [Your Name] — *(add a short line describing the parts you worked on)*
+- Apoorva Kumar
+- Eshan Jain
 
 If you're forking or building on this, please keep the existing license and attribution intact.
 
