@@ -76,7 +76,7 @@ terraguard/
 ### Install
 
 ```bash
-git clone https://github.com/<your-username>/terraguard.git
+git clone https://github.com/ak2106-47/Terraguard.git
 cd terraguard
 pip install -r requirements.txt
 ```
@@ -174,9 +174,6 @@ Keep your Gemini key in a local `.env` file (the repo ships with `env.example` a
 
 ---
 
-## Background & credits
-
-This project began as **CloudSage**, a collaborative build. The original codebase and its MIT license are authored by **Subramanian Raj Narayanan** (see the [LICENSE](LICENSE) file), and that notice is preserved here in full.
 
 **Contributors:**
 - Apoorva Kumar
