@@ -1,0 +1,31 @@
+{
+  "model": "gpt4",
+  "file_analyzed": "main.tf",
+  "issues_detected": [
+    {
+      "type": "Security Risk",
+      "line": 8,
+      "message": "S3 bucket has public-read ACL which can expose sensitive data to the public."
+    },
+    {
+      "type": "Best Practice",
+      "line": 17,
+      "message": "Hardcoded AMI ID can lead to issues if the AMI is deregistered or deleted."
+    },
+    {
+      "type": "Best Practice",
+      "line": 18,
+      "message": "Instance type is hardcoded, consider making it a variable for flexibility."
+    },
+    {
+      "type": "Best Practice",
+      "line": 1,
+      "message": "AWS region is hardcoded, consider making it a variable for flexibility."
+    }
+  ],
+  "metadata": {
+    "source": "Google Gemini",
+    "num_issues": 4
+  },
+  "timestamp": "2025-08-01T04:48:49.413367"
+}

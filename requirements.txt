@@ -1,0 +1,14 @@
+streamlit
+python-hcl2
+google-genai
+transformers
+torch
+python-dotenv
+matplotlib
+pytest
+pytest-cov
+black
+flake8
+mypy
+safety
+bandit

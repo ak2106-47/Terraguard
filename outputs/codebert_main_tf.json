@@ -1,0 +1,16 @@
+{
+  "model": "codebert",
+  "file_analyzed": "main.tf",
+  "issues_detected": [
+    {
+      "type": "None",
+      "line": "N/A",
+      "message": "CodeBERT classified the file as 'None'"
+    }
+  ],
+  "metadata": {
+    "source": "Microsoft CodeBERT",
+    "num_issues": 1
+  },
+  "timestamp": "2025-08-01T04:48:52.075144"
+}
