@@ -6,7 +6,7 @@
 
 TerraGuard reads your Terraform configurations and flags security risks, best-practice violations, and maintainability problems before they reach production. It pairs large-language-model reasoning (Google Gemini) with a code-specialized classifier (CodeBERT) and a deterministic rule engine, then surfaces everything through an interactive Streamlit dashboard so you can compare what each approach found.
 
-Think of it as a second reviewer for your `.tf` files — one that never gets tired of checking the same patterns and explains its reasoning in plain language.
+Think of it as a second reviewer for your `.tf` files — one that never gets tired of checking the same patterns and explains its reasoning in plain language. It is a good webapp related to cybersecurity.
 
 ---
 
